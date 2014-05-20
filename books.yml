@@ -1,0 +1,21 @@
+---
+- !ruby/object:Book
+  title: 'JavaScript: The good'
+  author: Doug
+  category: :development
+- !ruby/object:Book
+  title: Designing wiht web standards
+  author: Jeff
+  category: :design
+- !ruby/object:Book
+  title: Don't make me think
+  author: Steve
+  category: :usability
+- !ruby/object:Book
+  title: JavaScript Patterns
+  author: Stoyan
+  category: :development
+- !ruby/object:Book
+  title: Responsive Web Design
+  author: Ethan
+  category: :design
